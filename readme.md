@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Click the buuton app, Jvascript project
@@ -27,8 +27,11 @@ https://clickbuttonapp.netlify.app/
 
 ## Screenshots
 
-![](./Screenshot%201.png)
-![](./Screenshot%202.png)
+![Screenshot 1](https://user-images.githubusercontent.com/92782806/211470667-6bac0653-6ffc-47ab-a824-bc1b6692fc45.png)
+![Screenshot 2](https://user-images.githubusercontent.com/92782806/211470663-6d83f70e-4594-41bb-ae68-1767824296b6.png)
+
+
+
 
 
 
